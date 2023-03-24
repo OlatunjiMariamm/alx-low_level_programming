@@ -1,16 +1,9 @@
-#ifndef MAIN_H
+#ifndef MAIN_H 
+#define MAIN_H 
+#include <stdio.h> 
+void positive_or_negative(int i); 
+int largest_number(int a, int b, int c); 
+void print_remaining_days(int month, int day, int year); 
+int convert_day(int, int); 
+#endif /* MAIN_H */
 
-#define MAIN_H
-
-
-int_pucher(char c);
-
-int_0-main.c, main.h
-
-int_1-main.c
-
-int_2-largest_number.c, main.h
-
-int_3-print_remaining_days.c, main.h
-
-#endif
